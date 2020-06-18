@@ -1,0 +1,16 @@
+C:\Users\Enrique Payamps\source\repos\JuegoDelAhorcado\JuegoDelAhorcado\bin\Debug\JuegoDelAhorcado.exe.config
+C:\Users\Enrique Payamps\source\repos\JuegoDelAhorcado\JuegoDelAhorcado\obj\Debug\JuegoDelAhorcado.Form1.resources
+C:\Users\Enrique Payamps\source\repos\JuegoDelAhorcado\JuegoDelAhorcado\obj\Debug\JuegoDelAhorcado.Properties.Resources.resources
+C:\Users\Enrique Payamps\source\repos\JuegoDelAhorcado\JuegoDelAhorcado\obj\Debug\JuegoDelAhorcado.csproj.GenerateResource.Cache
+C:\Users\Enrique Payamps\source\repos\JuegoDelAhorcado\JuegoDelAhorcado\obj\Debug\JuegoDelAhorcado.csprojAssemblyReference.cache
+C:\Users\Enrique Payamps\source\repos\JuegoDelAhorcado\JuegoDelAhorcado\bin\Debug\JuegoDelAhorcado.exe
+C:\Users\Enrique Payamps\source\repos\JuegoDelAhorcado\JuegoDelAhorcado\bin\Debug\JuegoDelAhorcado.pdb
+C:\Users\Enrique Payamps\source\repos\JuegoDelAhorcado\JuegoDelAhorcado\obj\Debug\JuegoDelAhorcado.exe
+C:\Users\Enrique Payamps\source\repos\JuegoDelAhorcado\JuegoDelAhorcado\obj\Debug\JuegoDelAhorcado.pdb
+C:\Users\Enrique Payamps\source\repos\JuegoDelAhorcado\JuegoDelAhorcado\bin\Debug\Fotos\Imagen1.PNG
+C:\Users\Enrique Payamps\source\repos\JuegoDelAhorcado\JuegoDelAhorcado\bin\Debug\Fotos\Imagen2.PNG
+C:\Users\Enrique Payamps\source\repos\JuegoDelAhorcado\JuegoDelAhorcado\bin\Debug\Fotos\Imagen3.PNG
+C:\Users\Enrique Payamps\source\repos\JuegoDelAhorcado\JuegoDelAhorcado\bin\Debug\Fotos\Imagen4.PNG
+C:\Users\Enrique Payamps\source\repos\JuegoDelAhorcado\JuegoDelAhorcado\bin\Debug\Fotos\Imagen5.PNG
+C:\Users\Enrique Payamps\source\repos\JuegoDelAhorcado\JuegoDelAhorcado\bin\Debug\Fotos\Imagen6.PNG
+C:\Users\Enrique Payamps\source\repos\JuegoDelAhorcado\JuegoDelAhorcado\bin\Debug\Fotos\Imagen7.PNG
